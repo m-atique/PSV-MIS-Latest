@@ -1,0 +1,6 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "avdmanager.avdHome": "path=C:\\Users\\yc\\.android\\avd\\Pixel_XL_API_30.avd"
+}
